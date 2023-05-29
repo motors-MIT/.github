@@ -1,2 +1,2 @@
-# .github
-README for Github
+# Github Repository
+Helps setup our git :) 
