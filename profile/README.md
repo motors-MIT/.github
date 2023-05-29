@@ -1,12 +1,5 @@
-## Hi there 👋
+## MIT Motor Lab
 
-<!--
+Hello and welcome to the MIT Motor Lab! We were started by the MIT Electric Vehicle Team (evt.mit.edu) in 2023 and our goal is to create a knowledge-base surrounding motors, motor control, motor testing, and motor design for both robotics and electric vehicles! Members of MIT's EVT, MITERS, the MIT Biomimetic Robotics Lab, as well as teaching staff @ MIT all contribute to motors.mit.edu!
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+If you want to contribute, email use @ motors@mit.edu! 
